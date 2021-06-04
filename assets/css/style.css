@@ -38,6 +38,7 @@ body
 {
     height: 90vh;
     margin-top: 20px;
+    background-color: whitesmoke;
 }
 .ced-section1-txt 
 {
@@ -58,7 +59,12 @@ body
 }
 
 /* Galerie */
-
+.ced-title-galerie
+{
+    text-align: center;
+    color: wheat;
+    padding-top: 20px;
+}
 .ced-img-pad
 {
    padding: 20px; 

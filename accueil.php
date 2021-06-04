@@ -50,7 +50,7 @@
 
     <div class="header">
     </div>
-    <div class="container-fluid ced-bio">
+    <div class="ced-bio">
         <div class="row">
             <div class="col-sm">
                 <div class="ced-section1-txt">
@@ -66,9 +66,9 @@
     </div>
     <!-- End Header -->
     <!-- Galerie -->
-    <div class="container-fluid ced-galerie">
+    <div class="ced-galerie">
         <div class="row">
-            <div class="col text-center">
+            <div class="ced-title-galerie">
                 <h2>Ma Galerie</h2>
             </div>
         </div>
